@@ -1,0 +1,7 @@
+name: stats
+channels:
+  - conda-forge
+dependencies:
+  - r
+  - r-base
+  - r-essentials
