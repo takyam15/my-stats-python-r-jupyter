@@ -2,6 +2,7 @@ name: stats
 channels:
   - conda-forge
 dependencies:
+  - python
   - r
   - r-base
   - r-essentials
