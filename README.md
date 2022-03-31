@@ -22,7 +22,7 @@ Clone this repository and run:
 docker compose build
 ```
 
-or you can pull the docker image from [my DockerHub repository](https://hub.docker.com/repository/docker/takyam15/my-stats-python-r-jupyter){:target="_blank"}
+or you can pull the docker image from [my DockerHub repository](https://hub.docker.com/repository/docker/takyam15/my-stats-python-r-jupyter)
 
 After building or downloading docker image run:
 
