@@ -32,6 +32,8 @@ docker compose up -d
 
 Then JupyterLab will be loaded by accessing `localhost:8888` on your web browser.
 
+You can check libraries are successfully installed by running `env_checker.ipynb` in `Python` and `R` directories.
+
 
 ### Getting started without Docker
 
@@ -47,6 +49,8 @@ pip install -r requirements_pip.txt
 ```
 
 With the developed environment activatad, run `jupyter-lab` command, and JupyterLab will be loaded on your web browser.
+
+You can check libraries are successfully installed by running `env_checker.ipynb` in `Python` and `R` directories.
 
 
 ## Note
