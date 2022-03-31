@@ -3,7 +3,7 @@
 Here is my programming environment for basic statistical data analysis and machine learning.
 Main features are:
 * Interactive data analysis using JupyterLab
-* Environment with both python and R
+* Environment with both Python and R
 
 
 ## Requirements
