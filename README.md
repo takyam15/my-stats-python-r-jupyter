@@ -1,7 +1,9 @@
 # my-stats-python-r-jupyter
 
-Here is my programming environment for statistical data analysis and machine learning.
-Both python and R can be executed on JupyterLab.
+Here is my programming environment for basic statistical data analysis and machine learning.
+Main features are:
+* Interactive data analysis using JupyterLab
+* Environment with both python and R
 
 
 ## Requirements
@@ -20,13 +22,15 @@ Clone this repository and run:
 docker compose build
 ```
 
-After building docker image run:
+or you can pull the docker image from [DockerHub repository](https://hub.docker.com/repository/docker/takyam15/my-stats-python-r-jupyter)
+
+After building or downloading docker image run:
 
 ```bash
 docker compose up -d
 ```
 
-You can use JupyterLab by accessing `localhost:8888` on your web browser.
+Then JupyterLab will be loaded by accessing `localhost:8888` on your web browser.
 
 
 ### Getting started without Docker
@@ -42,7 +46,7 @@ pip install --upgrade pip
 pip install -r requirements_pip.txt
 ```
 
-With the developed environment activatad, run `jupyter-lab` command to start data analysis.
+With the developed environment activatad, run `jupyter-lab` command, and JupyterLab will be loaded on your web browser.
 
 
 ## Note
