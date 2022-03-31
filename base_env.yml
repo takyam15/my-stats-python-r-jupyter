@@ -6,3 +6,5 @@ dependencies:
   - r
   - r-base
   - r-essentials
+  - r-irkernel
+  - jupyterlab

@@ -13,8 +13,6 @@ requests
 beautifulsoup4
 pytest
 sphinx
-jupyterlab
 ipywidgets
 streamlit
-r-irkernel
 r-tidyverse
